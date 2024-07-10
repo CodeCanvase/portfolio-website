@@ -256,3 +256,42 @@ footer input[type="text"], footer input[type="email"], footer textarea  {
     text-align: center;
 
 }
+
+
+/* newsletter section for the website */
+
+.newsletter{
+    background-size: cover;
+    background-position: center;
+    color: #fafafa;
+    text-align: center;
+
+}
+
+.newsletter-content {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0,7);
+    padding: 50px;
+    border-radius: 8px;
+}
+.newsletter-content-h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.newsletter-content-p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+
+}
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
