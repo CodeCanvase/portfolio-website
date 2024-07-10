@@ -170,6 +170,7 @@ main section{
 }
 
 
+
 /* skills section styles */
 
 .skills-container {
@@ -228,5 +229,13 @@ footer input[type="text"], footer input[type="email"], footer textarea  {
     padding: 10px 20px;
     margin-bottom: 24px;
     border: none;
+
+}
+
+
+.image-container{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
 
 }
