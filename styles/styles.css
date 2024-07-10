@@ -184,6 +184,23 @@ main section{
     box-shadow: 0px 6px 50px 0px #bebebe;
 }
 
+.skill-html {
+    background-color: #adff50e1;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.skill-css {
+    background-color: #ffcc91;
+    padding: 30px;
+    border-radius: 5px;
+}
+.skill-java {
+    background-color: #009dffc5;
+    padding: 30px;
+    border-radius: 5px;
+}
+
 
 /* resume section stuyles */
 .resume-container{
